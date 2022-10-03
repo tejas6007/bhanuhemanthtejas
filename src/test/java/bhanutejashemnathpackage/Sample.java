@@ -10,4 +10,11 @@ public void sam()
 	System.out.println(" ia m asamntha");
 	System.out.println("--i am nagarjun---");
 }
+	
+	@Test
+public void uppi()
+{
+	System.out.println(" prajakiya");
+}
+	
 }
