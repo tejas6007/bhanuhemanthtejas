@@ -17,5 +17,10 @@ public void uppi()
 	System.out.println(" prajakiya");
 	System.out.println("okk it is prajakiya only");
 }
+	@Test
+public void dboss()
+{
+	System.out.println(" kranti");
+}
 	
 }
