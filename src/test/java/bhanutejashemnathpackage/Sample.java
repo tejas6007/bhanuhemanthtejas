@@ -6,7 +6,11 @@ public class Sample
 {
 	@Test
 public void sam()
-{
+{   
+		System.out.println("kgf");
+		System.out.println("kabza");
+	System.out.println("vikrant rona");
+	System.out.println("kaantara");
 		System.out.println("virat kohli,rohith sharma");
 		System.out.println(" ia m hemanth");
 	System.out.println(" ia m asamntha");
