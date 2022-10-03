@@ -10,8 +10,7 @@ public void sam()
 		System.out.println(" ia m hemanth");
 	System.out.println(" ia m asamntha");
 	System.out.println("--i am nagarjun---");
-	System.out.println("i am one and only nagarjun");
-	System.out.println("okk i am changed now bye");
+    System.out.println("sop0000");
 }
 	
 	@Test
@@ -30,6 +29,9 @@ public void dboss()
 public void hemanth()
 {
 	System.out.println("same");
+	System.out.println("sop01........");
+	System.out.println("sop02.........");
+	System.out.println("sop03........");
 }
 	
 }
