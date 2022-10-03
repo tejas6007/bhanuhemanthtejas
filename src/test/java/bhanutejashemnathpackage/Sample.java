@@ -15,5 +15,10 @@ public void uppi()
 {
 	System.out.println(" prajakiya");
 }
+	@Test
+public void dboss()
+{
+	System.out.println(" kranti");
+}
 	
 }
