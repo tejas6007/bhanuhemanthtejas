@@ -15,6 +15,7 @@ public void sam()
 public void uppi()
 {
 	System.out.println(" prajakiya");
+	System.out.println("okk it is prajakiya only");
 }
 	
 }
