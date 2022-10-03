@@ -9,6 +9,7 @@ public void sam()
 {
 	System.out.println(" ia m asamntha");
 	System.out.println("--i am nagarjun---");
+	System.out.println("i am one and only nagarjun");
 }
 	
 	@Test
