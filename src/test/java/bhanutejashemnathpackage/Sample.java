@@ -6,7 +6,12 @@ public class Sample
 {
 	@Test
 public void sam()
-{
+{   
+		System.out.println("kgf");
+		System.out.println("kabza");
+	System.out.println("vikrant rona");
+	System.out.println("kaantara");
+		System.out.println("virat kohli,rohith sharma");
 		System.out.println(" ia m hemanth");
 	System.out.println(" ia m asamntha");
 	System.out.println("--i am nagarjun---");
@@ -25,6 +30,11 @@ public void dboss()
 {
 	System.out.println(" kranti");
 }
+	@Test
+	public void hemanth()
+	{
+		System.out.println("same");
+	}
 	
 	@Test
 public void hemanth()
