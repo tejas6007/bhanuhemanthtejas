@@ -26,4 +26,10 @@ public void dboss()
 	System.out.println(" kranti");
 }
 	
+	@Test
+public void hemanth()
+{
+	System.out.println("same");
+}
+	
 }
