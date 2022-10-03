@@ -11,6 +11,7 @@ public void sam()
 	System.out.println(" ia m asamntha");
 	System.out.println("--i am nagarjun---");
 	System.out.println("i am one and only nagarjun");
+	System.out.println("okk i am changed now bye");
 }
 	
 	@Test
@@ -23,6 +24,12 @@ public void uppi()
 public void dboss()
 {
 	System.out.println(" kranti");
+}
+	
+	@Test
+public void hemanth()
+{
+	System.out.println("same");
 }
 	
 }
