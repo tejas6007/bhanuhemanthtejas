@@ -8,5 +8,6 @@ public class Sample
 public void sam()
 {
 	System.out.println(" ia m asamntha");
+	System.out.println("--i am nagarjun---");
 }
 }
