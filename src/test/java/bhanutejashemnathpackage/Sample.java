@@ -9,4 +9,11 @@ public void sam()
 {
 	System.out.println(" ia m asamntha");
 }
+	
+	@Test
+public void uppi()
+{
+	System.out.println(" prajakiya");
+}
+	
 }
