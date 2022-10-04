@@ -30,7 +30,7 @@ public void dboss()
 	System.out.println(" kranti");
 }
 	@Test
-	public void hemanth()
+	public void hemanth1()
 	{
 		System.out.println("same");
 	}
@@ -44,4 +44,7 @@ public void hemanth()
 	System.out.println("sop03........");
 }
 	
+	public void harsha () {
+		System.out.println("hhhhhhhhhhhhhhhhhh");
+	}
 }
